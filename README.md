@@ -5,7 +5,7 @@ A Web Spring Boot Application that performs all the CRUD operations on employee 
 Here's a glimpse of how the application looks like.
 (the list is sorted by last name ascending order)
 
-![image](https://user-images.githubusercontent.com/61968230/152687735-7d4fd44b-f06b-42c5-80fe-51eee114ab65.png)
+![imageedit_2_4596701404](https://user-images.githubusercontent.com/61968230/152700340-a33e7981-accb-40be-805d-1cf1601e97aa.png)
 
 **Create Employee**
 * When clicked on add employee button, this form opens up :
