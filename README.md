@@ -18,7 +18,7 @@ Here's a glimpse of how the application looks like.
 ![image](https://user-images.githubusercontent.com/61968230/152687961-9a39f393-ef9d-440c-af0a-b707bc67bbf5.png)
 
 **Delete Employee**
-* When clicked on delete, it prompts an alert asking are you sure you want to delete the employee, if clicked yes it deletes the record of employee from the database as well.
+* When clicked on delete, it prompts an alert asking are you sure you want to delete the employee, if clicked yes, it deletes the record of employee from the database as well.
 
 ![image](https://user-images.githubusercontent.com/61968230/152688015-cc06fdfa-9769-442a-9b96-bcc66f26dae9.png)
 
